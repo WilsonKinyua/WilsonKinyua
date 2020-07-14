@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**WilsonKinyua/WilsonKinyua**
+**I am Wilson or you can call me root**
 
 Here are some ideas to get you started:
 
