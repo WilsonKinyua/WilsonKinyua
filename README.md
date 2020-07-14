@@ -3,7 +3,7 @@
 
 **I am Wilson or you can call me root**
 
-Here are some ideas to get you started:
+Here are some few things about me:
 
 - 🔭 I’m currently working on a ecommerce store
 - 🌱 I’m currently learning ANGULAR JS
