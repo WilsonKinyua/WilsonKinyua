@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Wilson or you can call me root**
+**I am Wilson or you can call me Code The Guy**
 
 Here are some few things about me:
 
