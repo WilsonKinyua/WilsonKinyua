@@ -14,6 +14,7 @@ Here are some few things about me:
 - facebook https://www.facebook.com/ilson.kiny/
 - portfolio https://portfoliowilson.herokuapp.com/
 - email wilsonkinyuam@gmail.com
+- phone +254717255460
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
