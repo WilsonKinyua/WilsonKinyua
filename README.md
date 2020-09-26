@@ -11,7 +11,7 @@ Here are some few things about me:
 - 💬 Ask me about Web development
 - 📫 How to reach me: 
 - twitter https://twitter.com/code_the_guy
-- facebook https://www.facebook.com/ilson.kiny/
+- facebook https://www.facebook.com/code_the_guy/
 - portfolio https://portfoliowilson.herokuapp.com/
 - email wilsonkinyuam@gmail.com
 - phone +254717255460
