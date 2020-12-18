@@ -5,8 +5,8 @@
 
 Here are some few things about me:
 
-- 🔭 I’m currently working on a ecommerce store and hotel booking web app
-- 🌱 I’m currently exapanding more and more in web development
+- 🔭 I’m currently working on a laravel ecommerce store and hotel booking web app
+- 🌱 I’m currently exapanding more and more in web development and new technologies
 - 👯 I’m looking to collaborate on Frontend or backend projects
 - 💬 Ask me about Web development
 - 📫 How to reach me: 
