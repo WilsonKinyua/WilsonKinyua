@@ -12,7 +12,7 @@ Here are some few things about me:
 - 📫 How to reach me: 
 - twitter https://twitter.com/code_the_guy
 - facebook https://www.facebook.com/code_the_guy/
-- portfolio https://portfoliowilson.herokuapp.com/
+- portfolio https://developerwilson.com/
 - email wilsonkinyuam@gmail.com
 - phone +254717255460
 - 😄 Pronouns: ...
