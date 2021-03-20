@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Wilson or you can call me Code The Guy**
+**I am Wilson a Software Developer*
 
 Here are some few things about me:
 
