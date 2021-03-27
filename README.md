@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Wilson a Software Developer*
+**I am Wilson Kinyua a Software Developer*
 
 Here are some few things about me:
 
