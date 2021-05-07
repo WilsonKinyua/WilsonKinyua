@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Wilson Kinyua a Software Developer*
+**I am Wilson Kinyua a Full-stack Web Developer*
 
 Here are some few things about me:
 
@@ -15,6 +15,6 @@ Here are some few things about me:
 - portfolio https://developerwilson.com/
 - email wilsonkinyuam@gmail.com
 - phone +254717255460
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 - ⚡ Fun fact: ...
 
