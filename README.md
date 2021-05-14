@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi you 👋
 
 
 **I am Wilson Kinyua a Full-stack Web Developer*
