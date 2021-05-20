@@ -10,8 +10,9 @@ Here are some few things about me:
 - 👯 I’m looking to collaborate on Frontend or backend projects
 - 💬 Ask me about Web development
 - 📫 How to reach me: 
-- twitter https://twitter.com/code_the_guy
+- twitter https://twitter.com/muthoniwilsonk
 - facebook https://www.facebook.com/code_the_guy/
+- instagram https://www.instagram.com/developerwilson/
 - portfolio https://developerwilson.com/
 - email wilsonkinyuam@gmail.com
 - phone +254717255460
