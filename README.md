@@ -11,7 +11,7 @@ Here are some few things about me:
 - 💬 Ask me about Web development
 - 📫 How to reach me: 
 - twitter https://twitter.com/muthoniwilsonk
-- facebook https://www.facebook.com/code_the_guy/
+- facebook https://www.facebook.com/developerwilson/
 - instagram https://www.instagram.com/developerwilson/
 - portfolio https://developerwilson.com/
 - email wilsonkinyuam@gmail.com
