@@ -36,10 +36,11 @@
 I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving problems with code. I love clean code and well written code. I’m currently expanding more and more in web development, android development and new technologies.
 - 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/) 🥳
 - 📝 I’m looking to collaborate on Frontend or backend projects.
+- ⚡  I’m currently working on a event management system
 - 💬 Ask me about anything JavaScript, PHP, Python etc.
 - 👯 Checkout my other github [WilsonKinyua](https://twitter.com/muthoniwilsonk)
 - 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/)
-- ⚡  I’m currently working on a event management system
+
 
 ## My Github Stats
 
