@@ -1,5 +1,5 @@
-<h1 align="center">I am Wilson Kinyua Muthoni 😃</h1>
-<h3 align="center"> A Full-stack Web Developer and UI/UX Designer</h3>  
+<!-- <h1 align="center">I am Wilson Kinyua Muthoni 😃</h1>
+<h3 align="center"> A Full-stack Web Developer and UI/UX Designer</h3>   -->
 
 <!-- <p><img align="left" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonkinyua&show_icons=true&locale=en&layout=compact" alt="wilsonkinyua" /></p>
 
@@ -8,7 +8,7 @@
 <p><img align="center" width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua&" alt="wilsonkinyua" /></p> -->
 
 
-Here are some few things about me:
+<!-- Here are some few things about me:
 
 - 🔭 I’m currently working on a event management system
 - 🌱 I’m currently exapanding more and more in web development, android development and new technologies
@@ -22,3 +22,36 @@ Here are some few things about me:
 - portfolio https://developerwilson.com/
 - email wilsonkinyuam@gmail.com
 - phone +254717255460
+ -->
+ ### Hi there 👋, I'm Wilson 😃
+
+[Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
+[Website](https://developerwilson.com/) |
+[Facebook](https://www.facebook.com/developerwilson/) |
+[Instagram](https://www.instagram.com/developerwilson/) |
+[Twitter](https://twitter.com/muthoniwilsonk) |
+
+---
+
+I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving problems with code. I love clean code and well written code. I’m currently expanding more and more in web development, android development and new technologies.
+- 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/) 🥳
+- 📝 I’m looking to collaborate on Frontend or backend projects.
+- 💬 Ask me about anything JavaScript, PHP, Python etc.
+- 👯 Checkout my other github [WilsonKinyua](https://github.com/WilsonKinyua)
+- 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/)
+- ⚡  I’m currently working on a event management system
+
+## My Github Stats
+
+<a align="left" >
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua&">
+</a>
+</a>
+
+
+<!-- ## 🎧 Currently Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alt1j8v85n8wst0rftdf1knha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
