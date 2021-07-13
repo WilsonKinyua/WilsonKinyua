@@ -1,4 +1,4 @@
-<!-- <h1 align="center">I am Wilson Kinyua Muthoni 😃</h1>
+<!-- <h1 align="center">I am Wilson Kinyua 😃</h1>
 <h3 align="center"> A Full-stack Web Developer and UI/UX Designer</h3>   -->
 
 <!-- <p><img align="left" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonkinyua&show_icons=true&locale=en&layout=compact" alt="wilsonkinyua" /></p>
