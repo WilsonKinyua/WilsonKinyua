@@ -23,7 +23,7 @@
 - email wilsonkinyuam@gmail.com
 - phone +254717255460
  -->
- ### Hi there 👋, I'm Wilson 😃
+ ### Hi there 👋, I'm Wilson Kinyua😃
 
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
 [Website](https://developerwilson.com/) |
