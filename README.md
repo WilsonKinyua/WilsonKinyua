@@ -51,8 +51,9 @@ I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love sol
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua&">
 </a>
-</a>
 
+</a>
+<figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/db174bdf-c97c-4b43-9c6e-fe8839c78948.svg"></embed></figure>
 
 <!-- ## 🎧 Currently Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alt1j8v85n8wst0rftdf1knha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
