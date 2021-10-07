@@ -53,7 +53,5 @@ I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love sol
 </a>
 
 </a>
-<figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/db174bdf-c97c-4b43-9c6e-fe8839c78948.svg"></embed></figure>
 
-<!-- ## 🎧 Currently Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alt1j8v85n8wst0rftdf1knha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+<figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/acdcb4a7-0b2d-47d3-bd36-7314ca7dc374.svg"></embed></figure>
