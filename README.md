@@ -7,8 +7,6 @@
 
 <p><img align="center" width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua&" alt="wilsonkinyua" /></p> -->
 
-
-
 <!-- Here are some few things about me:
 
 - 🔭 I’m currently working on a event management system
