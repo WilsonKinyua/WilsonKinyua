@@ -42,8 +42,8 @@ I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love sol
 - 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/)
 
 
-
 ## My Github Stats
+
 
 <!-- <a align="left" >
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
