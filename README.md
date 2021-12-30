@@ -25,7 +25,7 @@
 
 
 
- ### Hi there 👋, I'm Wilson 😃
+ ### Hi there 👋, I'm Wilson 😃🙂
 
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
 [Website](https://developerwilson.com/) |
