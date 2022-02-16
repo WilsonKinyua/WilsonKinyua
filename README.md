@@ -27,8 +27,6 @@
 
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
 [Website](https://developerwilson.com/) |
-[Facebook](https://www.facebook.com/developerwilson/) |
-[Instagram](https://www.instagram.com/developerwilson/) |
 [Twitter](https://twitter.com/muthoniwilsonk) |
 
 
