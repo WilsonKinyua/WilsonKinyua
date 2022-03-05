@@ -45,10 +45,6 @@ I am a Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love sol
 ## My Github Stats
 
 
-<!-- <a align="left" >
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt" />
-</a> -->
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua&">
 </a>
