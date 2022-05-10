@@ -8,9 +8,8 @@
 ---
 
 Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving problems with code. I love clean code and well written code.
-- 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/) 🥳 
+- 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - 📝 I’m looking to collaborate on Frontend or backend projects.
-- 👯 Checkout my other github [WilsonKinyua](https://twitter.com/muthoniwilsonk)
 - 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/)
 
 ## My Github Stats
