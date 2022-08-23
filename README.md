@@ -21,4 +21,4 @@ Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving pr
 </a>
 
 <figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/acdcb4a7-0b2d-47d3-bd36-7314ca7dc374.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@developerwilson/e6b0d4df-9bbb-4a03-bf72-ebdf0407ce74.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@developerwilson/1c07fdc9-7000-42e2-a57a-2ab7d787751e.svg"></embed></figure>
