@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Wilson 😃
 
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
-[Website](https://developerwilson.com/) |
+[Website](https://wilsonkinyua.vercel.app/) |
 [Twitter](https://twitter.com/_wilsonkinyua) |
 
 
