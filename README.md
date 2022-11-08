@@ -8,9 +8,9 @@
 ---
 
 Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving problems with code. I love clean code and well written code.
-- 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/)
+<!-- - 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - 📝 I’m looking to collaborate on Frontend or backend projects.
-- 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/)
+- 📫 How to reach me: [@developerwilson](https://www.linkedin.com/in/WilsonKinyua/) -->
 
 ## My Github Stats
 
@@ -20,7 +20,5 @@ Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving pr
 
 </a>
 
-<!-- <figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/acdcb4a7-0b2d-47d3-bd36-7314ca7dc374.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@developerwilson/1c07fdc9-7000-42e2-a57a-2ab7d787751e.svg"></embed></figure> -->
 
 ![Wilson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilsonkinyua&theme=gotham&layout=compact)
