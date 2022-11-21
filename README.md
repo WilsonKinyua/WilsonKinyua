@@ -20,5 +20,6 @@ Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving pr
 
 </a>
 
+---
 
 ![Wilson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilsonkinyua&theme=gotham&layout=compact)
