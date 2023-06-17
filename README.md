@@ -15,7 +15,7 @@ Full Stack developer & UI/UX Designer based in Nairobi, Kenya. I love solving pr
 ## My Github Stats
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wilsonkinyua&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wilsonkinyua&theme=gotham">
 </a>
 
 [![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonkinyua)](https://github.com/anuraghazra/github-readme-stats)
