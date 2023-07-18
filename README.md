@@ -3,7 +3,7 @@
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
 [Website](https://wilsonkinyua.vercel.app/) |
 [Twitter](https://twitter.com/_wilsonkinyua) |
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonkinyua&label=Profile%20views&color=0e75b6&style=flat" alt="wilson" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonkinyua&label=Profile%20views&color=0e75b6&style=flat" alt="wilson" /> </p> -->
 
 ---
 
